@@ -24,3 +24,37 @@ while (numeroUsuario != numeroSecreto) {
         //alert('Lo siento, no acertaste el número');
     }
 }
+
+//desafio
+/*
+// 1. Contador de 1 a 10 usando un bucle 'while'
+let contador = 1;
+while (contador <= 10) {
+    console.log(contador);
+    contador++;
+}
+
+// 2. Contador de 10 a 0 usando un bucle 'while'
+contador = 10;
+while (contador >= 0) {
+    console.log(contador);
+    contador--;
+}
+
+// 3. Cuenta regresiva: de 0 hasta un número ingresado por el usuario
+let numeroRegresivo = parseInt(prompt("Ingresa un número para la cuenta regresiva:"));
+let i = numeroRegresivo;
+while (i >= 0) {
+    console.log(i);
+    i--;
+}
+
+// 4. Cuenta progresiva: de 0 hasta un número ingresado por el usuario
+let numeroProgresivo = parseInt(prompt("Ingresa un número para la cuenta progresiva:"));
+i = 0;
+while (i <= numeroProgresivo) {
+    console.log(i);
+    i++;
+}
+
+*/
